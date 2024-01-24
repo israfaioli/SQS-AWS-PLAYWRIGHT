@@ -1,0 +1,20 @@
+{
+  "name": "sqs-aws-playwright",
+  "version": "1.0.0",
+  "description": "Olá Analistas, desenvolvedores e recrutadores. Este readme irá apresentar a estrutura deste projeto Playwright com JavaScript de portfólio pessoal para interagir com uma fila Amazon Simple Queue Service (SQS).",
+  "main": "index.js",
+  "directories": {
+    "test": "playwright test"
+  },
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.41.1",
+    "@types/node": "^20.11.5"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.1542.0"
+  }
+}
