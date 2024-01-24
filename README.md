@@ -35,7 +35,7 @@ Olá Analistas, desenvolvedores e recrutadores. Este readme irá apresentar a es
 * Rode todas as suites de testes:
 
 ```
-npm test
+npm run test
 ```
 
 ### Repositório github ###
